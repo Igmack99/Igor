@@ -27,4 +27,8 @@ public class F implements D {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }

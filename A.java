@@ -19,4 +19,8 @@ public class A extends F {
     public byte oo() {
         return 1;
     }
+
+    public Object pp() {
+        return this;
+    }
 }
