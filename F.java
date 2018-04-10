@@ -19,4 +19,8 @@ public class F implements D {
     public void bb() {
         System.out.println(42);
     }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }

@@ -11,4 +11,8 @@ public class E {
     public String kk() {
         return "Yes";
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }
