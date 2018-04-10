@@ -11,12 +11,4 @@ public class A extends F {
     public double ad() {
         return 9.11;
     }
-
-    public int ae() {
-        return 8;
-    }
-
-    public byte oo() {
-        return 1;
-    }
 }
