@@ -23,4 +23,8 @@ public class F implements D {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }
