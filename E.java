@@ -15,4 +15,8 @@ public class E {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
 }
