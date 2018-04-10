@@ -15,4 +15,8 @@ public class A extends F {
     public int ae() {
         return 8;
     }
+
+    public byte oo() {
+        return 1;
+    }
 }
