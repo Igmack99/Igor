@@ -19,8 +19,4 @@ public class E {
     public double ee() {
         return java.lang.Math.PI;
     }
-
-    public void ab() {
-        System.out.println("\n");
-    }
 }
