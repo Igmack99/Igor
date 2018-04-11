@@ -23,4 +23,8 @@ public class A extends F {
     public Object pp() {
         return this;
     }
+
+    public String kk() {
+        return "No";
+    }
 }
