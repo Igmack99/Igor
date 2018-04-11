@@ -1,4 +1,4 @@
-public class E {
+public class E extends null {
 
     private byte h = 1;
 
@@ -12,12 +12,16 @@ public class E {
         return "Yes";
     }
 
-    public void bb() {
-        System.out.println(getClass().getName());
+    public java.lang.Class qq() {
+        return getClass();
     }
 
     public double ee() {
         return java.lang.Math.PI;
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
     }
 
     public void ab() {
@@ -25,6 +29,22 @@ public class E {
     }
 
     public int cc() {
-        return 39;
+        return 13;
+    }
+
+    public long ac() {
+        return 222;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
     }
 }
