@@ -24,9 +24,14 @@ public class F extends null implements D {
         return new java.util.Random();
     }
 
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
+
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+<<<<<<< HEAD
 
     public java.util.Random mm() {
         return new java.util.Random();
@@ -50,4 +55,31 @@ public class F extends null implements D {
     }
 =======
 >>>>>>> slave
+||||||| merged common ancestors
+=======
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public long dd() {
+        return 33;
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+>>>>>>> slave2
 }
