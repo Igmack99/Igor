@@ -1,4 +1,4 @@
-public class F implements D {
+public class F extends null implements D {
 
     private double d = 100.500;
 
@@ -26,5 +26,25 @@ public class F implements D {
 
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public Object pp() {
+        return this;
     }
 }

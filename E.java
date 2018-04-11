@@ -1,4 +1,4 @@
-public class E {
+public class E extends null {
 
     private byte h = 1;
 
@@ -12,11 +12,27 @@ public class E {
         return "Yes";
     }
 
+    public double ee() {
+        return java.lang.Math.PI;
+    }
+
     public void bb() {
         System.out.println(getClass().getName());
     }
 
-    public double ee() {
-        return java.lang.Math.PI;
+    public void ab() {
+        System.out.println("\n");
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public int cc() {
+        return 13;
+    }
+
+    public long ac() {
+        return 222;
     }
 }
