@@ -12,14 +12,18 @@ public class E extends null {
         return "Yes";
     }
 
+<<<<<<< HEAD
     public double ee() {
         return java.lang.Math.PI;
     }
 
+=======
+>>>>>>> slave
     public void bb() {
         System.out.println(getClass().getName());
     }
 
+<<<<<<< HEAD
     public void ab() {
         System.out.println("\n");
     }
@@ -34,5 +38,17 @@ public class E extends null {
 
     public long ac() {
         return 222;
+=======
+    public double ee() {
+        return java.lang.Math.PI;
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
+
+    public int cc() {
+        return 39;
+>>>>>>> slave
     }
 }

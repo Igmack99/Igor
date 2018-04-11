@@ -35,6 +35,7 @@ public class F extends null implements D {
     public Object rr() {
         return null;
     }
+<<<<<<< HEAD
 
     public double ad() {
         return java.lang.Math.sqrt(13);
@@ -47,4 +48,6 @@ public class F extends null implements D {
     public Object pp() {
         return this;
     }
+=======
+>>>>>>> slave
 }
